@@ -1,0 +1,1 @@
+export const { LOGIN_IMAGE } = require('./undraw_secure_login_pdn4.png');
